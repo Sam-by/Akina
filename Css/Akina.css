@@ -125,7 +125,7 @@ a {
   display: flex;
   justify-content: center;
   align-items: center;
-  color: var(--main-color);
+  color: var(--primary-color);
   height: 72px;
   font-size: 26px;
   font-weight: bold;
