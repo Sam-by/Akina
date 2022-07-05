@@ -125,14 +125,14 @@ a {
   display: flex;
   justify-content: center;
   align-items: center;
-  color: hsl(9, 94%, 61%);
+  color: var(--main-color);
   height: 72px;
   font-size: 26px;
   font-weight: bold;
   text-decoration: none;
 }
 .header .logo a:visited {
-  color: hsl(9, 94%, 61%);
+  color: var(--main-color);
 }
 
 @media (max-width: 767px) {
